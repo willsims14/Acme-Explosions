@@ -1,0 +1,34 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+        	"id": 1,
+        	"category": 0,
+        	"name": "commercial",
+        	"description": "Fireworks intended for use in a commerical setting."
+        },
+        {
+        	"id": 2,
+        	"category": 0,
+        	"name": "volunteer",
+        	"description": "Fireworks intended for non-profit organizations."
+        },
+        {
+        	"id": 3,
+        	"category": 1,
+        	"name": "education",
+        	"description": "Demolition for businesses."
+        },
+        {
+        	"id": 4,
+        	"category": 1,
+        	"name": "government",
+        	"description": "For governmental needs such as removing rocks."
+        }
+    ]
+}

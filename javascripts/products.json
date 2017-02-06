@@ -1,0 +1,46 @@
+{
+    "products": [
+		{
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        {
+        	"id": 1,
+        	"type": 1,
+        	"name":"Rocket Fun",
+        	"description": "A blast from the past"
+        },
+        {
+        	"id": 2,
+        	"type": 1,
+        	"name": "C4 Explosive",
+        	"description": "Used to blow things up."
+        },
+        {
+        	"id": 3,
+        	"type": 3,
+        	"name": "Science Rocket",
+        	"description": "A great showcasing of science, sure to rock your students' socks."
+        },
+        {
+        	"id": 4,
+        	"type": 4,
+        	"name": "Uncle Sam",
+        	"description": "For government use only."
+        },
+        {
+        	"id": 5,
+        	"type": 2,
+        	"name": "The philanthropic explosion.",
+        	"description": "Great for non-profit events."
+        },
+        {
+        	"id": 6,
+        	"type": 1,
+        	"name": "The Big Boy",
+        	"description": "Perfect for an experienced fireworker."
+        }
+    ]
+}

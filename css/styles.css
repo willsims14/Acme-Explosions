@@ -1,0 +1,27 @@
+.row{
+	margin: 0;
+	padding: 0;
+}
+
+#userInput{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#userCategory{
+	width: 15%;
+}
+
+#header{
+	margin-left: 2.5%;
+}
+
+#subheader{
+	margin-bottom: 5%;
+	margin-left: 5%;
+}
+
+#main-container{
+	margin-left: 4%;
+}
